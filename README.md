@@ -153,9 +153,6 @@ Created as a demonstration of Object-Oriented Programming principles and JavaFX 
 - JavaFX for UI framework
 - Scene Builder for FXML design
 
-## 📚 Documentation
-
-For comprehensive system documentation including OOP analysis and architecture details, see [SYSTEM_DOCUMENTATION.md](SYSTEM_DOCUMENTATION.md).
 
 ---
 
